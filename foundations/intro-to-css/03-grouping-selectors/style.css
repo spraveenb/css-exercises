@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.black-bg-white-text{
+    background-color: black;
+    color: white;
+}
