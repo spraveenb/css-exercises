@@ -12,3 +12,9 @@ p{
 .element3{
     font-size: 24px;
 }
+
+#id4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
