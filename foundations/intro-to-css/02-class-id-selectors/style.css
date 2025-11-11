@@ -6,5 +6,9 @@ p{
 
 .div2{
     color: blue;
-    size: 36px;
+    font-size: 36px;
+}
+
+.element3{
+    font-size: 24px;
 }
